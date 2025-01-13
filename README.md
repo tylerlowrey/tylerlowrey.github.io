@@ -1,13 +1,9 @@
-## Hello!
-My name is Tyler Lowrey and this is my personal website
+## About This Website
+Hello! My name is Tyler Lowrey and this is my github.io website associated with my GitHub account. I am using it to display assignments for the CTI-110 class I am taking at Wake Tech.
 
-## Occupation
-I am a Software Engineer for Global Payments
+## Contact Information
+Student Email: tjlowrey1@my.waketech.edu
 
-## Education
-I am currently a student at Wake Tech studying CyberSecurity
+## This GitHub Account
+This is my personal GitHub account which I am also using for school.
 
-Previously, I earned a B.S. in Computer Science from Clemson University
-
-## Hobbies
-In my spare time, I like to play video games, tinker with robotics, and read various genres of books. 
